@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! my name is Hans, I'm a baby programmer.</h4>
+<h4 align="left">Hi 👋! my name is Hans, I'm a beginner programmer..</h4>
 
 ###
 
